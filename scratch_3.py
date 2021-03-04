@@ -60,4 +60,4 @@ if __name__=='__main__':
     account1.show_transection()
 
 # Name Mangling: In this concept we write double underscore (__) before a vriable name and when we access that, python will not provide access to that
-# python will internally change its name to _classname__variablename
+# python will internally change its name to _classname__variablename I have done nothing new here just checking the procedure
